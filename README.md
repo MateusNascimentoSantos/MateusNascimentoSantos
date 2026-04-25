@@ -3,10 +3,10 @@
 <h3 align="center">Engenharia de Software | UI/UX Design | Suporte Técnico</h3>
 
 <p align="center">
-  Atualmente trabalhando com soluções full-stack e otimização de sistemas, integrando regras de negócio complexas com interfaces fluidas. Estudante de computação apaixonado por React, TypeScript, modelagem de banco de dados e prototipagem.
+  Atualmente focado em criações full-stack e otimização de sistemas, integrando regras de negócio complexas com interfaces fluidas. Estudante de computação apaixonado por React, TypeScript, modelagem de banco de dados e prototipagem.
 </p>
 
-### 🚀 Minha Stack
+<h3 align="center">🚀 Minha Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
@@ -24,14 +24,14 @@
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
 </div>
 
-### 📊 Minhas Estatísticas
+<h3 align="center">📊 Minhas Estatísticas</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MateusNascimentoSantos&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=MateusNascimentoSantos&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=MateusNascimentoSantos&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=MateusNascimentoSantos&theme=dracula&no-bg=true&no-frame=true&margin-w=15" height="150" alt="trophy graph"  />
 </div>
 
-### 👾 Contribuições
+<h3 align="center">👾 Contribuições</h3>
 
 <div align="center">
   <picture>
@@ -41,7 +41,7 @@
   </picture>
 </div>
 
-### 📫 Onde me encontrar
+<h3 align="center">📫 Onde me encontrar</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-santos-b74b66217/" target="_blank">
